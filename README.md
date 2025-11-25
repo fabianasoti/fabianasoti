@@ -4,7 +4,7 @@
 </p>
 
 # ✨ Hola, soy **Fabiana Sotillo**
-Desarrolladora en formación | DAM | Atención al Cliente & Tecnología
+Estudiante de DAM | UX & Tecnología
 
 ## 🔍 Sobre mí
 
