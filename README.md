@@ -49,10 +49,15 @@ Desarrolladora en formación | DAM | Atención al Cliente & Tecnología
 - Combinar creatividad + lógica en proyectos pequeños
 ---
 
-## 📊 Estadísticas (puedes activarlas cuando quieras)
+## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabianasoti&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianasoti&layout=compact&theme=buefy)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabianasoti&show_icons=true&theme=buefy" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianasoti&layout=compact&theme=buefy" alt="Top Languages" />
+</p>
 
 ---
 
