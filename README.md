@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- Encabezado pastel-lila -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=e8d9ff&height=130&text=✨%20Fabiana%20Victoria%20Sotillo%20✨&fontColor=6d4a9c&fontSize=40&animation=fadeIn" />
+</p>
 
-<!--
-**fabianasoti/fabianasoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Hola, soy **Fabiana Sotillo**
+Desarrolladora en formación | DAM | Atención al Cliente & Tecnología
 
-Here are some ideas to get you started:
+## 🔍 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)** y estoy aprendiendo a desarrollar proyectos que conecten datos y usuarios.  
+
+💡 Mi objetivo es crecer profesionalmente en el sector tecnológico, especializándome en bases de datos, análisis de datos y aplicaciones empresariales, aplicando mis habilidades en precisión, organización y trabajo en equipo.  
+
+✨ Me considero comunicativa, responsable, adaptable y orientada al detalle.
+
+---
+
+## 💾 Áreas de interés
+
+- Bases de datos y análisis de información  
+- Desarrollo de aplicaciones empresariales y ERP  
+- Optimización de procesos y mejora de la experiencia de usuario 
+
+---
+
+### 💻 Lenguajes y tecnologías
+- **Python**  
+- **MySQL**  
+- **HTML / CSS**  
+- Microsoft Office  
+- Warehouse Management OS
+
+## ⚡ Habilidades
+
+- Organización y eficiencia  
+- Aprendizaje rápido  
+- Trabajo en equipo  
+- Enfoque en lógica, claridad y buena estructura
+  
+---
+
+## 🌱 Actualmente explorando
+
+- Mejorar mis bases en **Python**, **MySQL**, **HTML** y **CSS**  
+- Entender mejor cómo se estructuran las aplicaciones ERP 
+- Aprender buenas prácticas y organización del código  
+- Seguir creciendo hacia el sector tecnológico  
+- Combinar creatividad + lógica en proyectos pequeños
+---
+
+## 📊 Estadísticas (puedes activarlas cuando quieras)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabianasoti&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianasoti&layout=compact&theme=buefy)
+
+---
+
+## 📫 Contacto
+
+- ✉ **Correo:** fsotillocuevas@gmail.com  
+- 📍 **Valencia, España**  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e8d9ff&height=120&section=footer" />
+</p>
