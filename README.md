@@ -50,7 +50,7 @@ Estudiante de DAM | UX & Tecnología
 - Entender mejor cómo se estructuran las aplicaciones ERP 
 - Aprender buenas prácticas y organización del código  
 - Seguir creciendo hacia el sector tecnológico  
-- Combinar creatividad + lógica en proyectos pequeños
+- Combinar resolución creativa + lógica en proyectos pequeños
 ---
 
 ## 📊 Estadísticas
