@@ -25,11 +25,15 @@ Desarrolladora en formación | DAM | Atención al Cliente & Tecnología
 ---
 
 ### 💻 Lenguajes y tecnologías
-- **Python**  
-- **MySQL**  
-- **HTML / CSS**  
-- Microsoft Office  
-- Warehouse Management OS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/WMOS-6d4a9c?style=for-the-badge&logoColor=white" />
+</p>
 
 ## ⚡ Habilidades
 
